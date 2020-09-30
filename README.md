@@ -1,6 +1,6 @@
 # pydownloader: a simple way to download YouTube videos.
 
-pydownloader is a very basic Python 3.+ script that allows you to download YouTube videos right from your command line. In order to do so, it uses the pytube library.</br>
+pydownloader is a very basic Python 3.+ script that allows you to download YouTube videos right from your command line. </br>In order to do so, it uses the pytube library.
 
 ## Requirements
 
