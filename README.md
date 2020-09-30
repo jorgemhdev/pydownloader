@@ -24,6 +24,8 @@ A working example would be:
 $ python pydownloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
+At the moment, pydownloader saves the YouTube video in the path the script is located in. I'm working in adding the "saving to custom paths" function.
+
 ## To-dos
 
 At the moment, this tool is really basic and not polished. I'm working on adding support for more command line arguments, making it prettier and optimizing it as much as I can.</br>
